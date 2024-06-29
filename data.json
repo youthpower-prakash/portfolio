@@ -1,41 +1,37 @@
 {
   "user": {
-    "name": "Aman",
+    "name": "@yoouthpower4851",
     "image": "",
     "socials": [
       {
         "name": "LinkedIn",
-        "profile_url": "https://linkedin.com/in/imtheaman",
-        "username": "imtheaman"
+        "profile_url": "https://www.linkedin.com/in/imtheprakash/",
+        "username": "@youthpower4851"
       },
-      {
-        "name": "Github",
-        "profile_url": "https://github.com/imtheaman",
-        "username": "imtheaman"
-      },
+      
       {
         "name": "YouTube",
-        "profile_url": "https://youtube.com/imtheaman",
-        "username": "imtheaman"
+        "profile_url": "https://www.youtube.com/@youthpower4851 ",
+        "username": "@youthpower4851"
       },
       {
         "name": "Email",
-        "profile_url": "mailto:imtheaman@proton.me",
-        "username": "imtheaman@proton.me"
+        "profile_url": "hi.youthpower@outlook.in",
+        "username": "hi.youthpower@outlook.in"
       }
     ],
-    "short_desc": "Hi, I'm Aman, a software engineer with passions and expertise in developing mobile and web apps.",
+    "short_desc": "Hi, I'm  prakash, a cad cam engineer, coder & freeleancer with passions and expertise in developing manufaturing & creat a world wide Globalization of society is connected to remarkable development in information technology and global networking. It gives a birth to e-learning; this type of learning widened our horizons of traditional learning and creates opportunity for all stakeholders in teaching and learning process",
     "long_desc": ""
   },
   "services": [
     {
-      "name": "Web App Development",
-      "desc": "Enterprise level web application development & deployment using modern technologies such as React.js, Next.js, Redux, Node.js, express.js, rest apis, graphql apis and others...",
-      "starting_price": "$125"
+      "name": "Cad Cam",
+      "desc": "Introduction to Mastercam Overview of CAD/CAM fundamentals Understanding the Mastercam interface File management and project organization 2D CAD Tools Drawing and editing geometry Creating lines, arcs, circles, and other shapes Using constraints and dimensions 2D Toolpaths Toolpath creation for milling and turning operations Contour, pocket, drilling, and facing toolpaths Toolpath parameters and strategies 3D CAD Tools Creating and modifying 3D geometry Surface creation and manipulation Solid modeling techniques 3D Toolpaths Creating roughing and finishing toolpaths Machining complex 3D surfaces and solids Multiaxis toolpaths (if applicable) Simulation and Verification Verifying toolpaths using simulation Detecting and correcting collisions Optimizing toolpath performance Post Processing Generating NC (numerical control) code Customizing post processors Post-processing considerations and troubleshooting Advanced Topics (Optional) Multiaxis machining strategies High-speed machining techniques Customizing Mastercam environment Project Work Practical exercises and projects to apply learned skills Real-world examples and case studies Certification and Assessment Preparing for Mastercam certification exams (if applicable) Assessment of skills and knowledge gained Depending on the level of the course (beginner, intermediate, or advanced), the depth and complexity of each topic may vary. Hands-on practice with the software is typically a crucial component of mastering Mastercam, so courses often include lab sessions or assignments to reinforce theoretical knowledge with practical application.",
+      "starting_price": "199"
     },
     {
-      "name": "App Development",
-      "desc": "Enterprise level Mobile Application development & deployment either using native tech like Kotlin, jetpack etc. or using cross-platform tech like react-native, flutter etc...",
+      "name": "NX",
+      "desc": "NX, developed by Siemens PLM Software, is a comprehensive CAD/CAM/CAE software suite used primarily in manufacturing industries for product design, engineering analysis, and manufacturing process planning. A course on NX typically covers a wide range of topics to equip learners with the skills needed to use the software effectively. Here’s a breakdown of the typical course content for NX: CAD (Computer-Aided Design) Module: Introduction to NX Overview of CAD/CAM/CAE functionalities Understanding the NX interface File management and project organization Sketching and 2D Geometry Creating sketches and constraints Editing and manipulating 2D geometry Dimensioning and annotations 3D Modeling Creating 3D solid models Using features like extrude, revolve, sweep, loft, etc. Parametric modeling techniques Assembly Design Creating assemblies of components Applying constraints and relationships Exploded views and assembly animations Surface Design Creating and editing complex surface geometry Advanced surfacing techniques Blend and patch surfaces Sheet Metal Design (Optional) Creating sheet metal parts and forming features Unfolding and bending simulations Punch tool and sheet metal operations CAM (Computer-Aided Manufacturing) Module: Introduction to CAM Basics of manufacturing processes CAM terminology and workflows Toolpath Generation Creating 2.5D and 3D toolpaths Machining operations like milling, turning, drilling, etc. Optimization of toolpaths for efficiency and quality Simulation and Verification Simulating machining operations Collision detection and avoidance Verifying toolpath accuracy Post Processing Generating NC (numerical control) code Customizing post processors Post-processing considerations and troubleshooting Advanced CAM Techniques (Optional) High-speed machining strategies Multiaxis machining capabilities Adaptive and trochoidal machining techniques CAE (Computer-Aided Engineering) Module: Introduction to CAE Overview of engineering analysis Finite Element Analysis (FEA) basics FEA Pre-processing Creating finite element models Meshing and element types Applying loads and boundary conditions Analysis and Simulation Running static, dynamic, thermal, and modal analyses Interpreting analysis results Optimization and design validation Post-processing and Reporting Analyzing results and generating reports Iterative design improvement based on analysis findings Integrated Projects and Certification: Project Work: Practical exercises and projects integrating CAD, CAM, and CAE functionalities to simulate real-world scenarios. Certification Preparation: Preparing for Siemens NX certification exams (if applicable) to validate skills and knowledge acquired throughout the course. Additional Topics (Depending on Course Level and Focus): Data Management: Managing design data using NX Teamcenter integration. Customization and Automation: Customizing NX environment with user-defined features and macros. Industry-specific Applications: Tailoring NX for specific industries such as automotive, aerospace, consumer goods, etc. Courses on NX are often structured to provide hands-on experience through lab sessions or assignments, ensuring learners can apply theoretical knowledge to practical tasks effectively. The depth and breadth of the course content may vary based on whether it’s an introductory, intermediate, or advanced level course",
       "starting_price": "$499"
     },
     {
